@@ -1,0 +1,18 @@
+.sii-wrap { max-width: 1240px; }
+.sii-card { margin: 20px 0; padding: 20px 24px; background: #fff; border: 1px solid #c3c4c7; border-radius: 5px; }
+.sii-card h2 { margin-top: 0; }
+.sii-options { margin: 20px 0; }
+.sii-options > label { display: block; margin-bottom: 8px; }
+.sii-actions { display: flex; gap: 10px; margin: 18px 0; }
+.sii-table-scroll { overflow-x: auto; }
+.sii-table { min-width: 720px; }
+.sii-table td { vertical-align: top; white-space: pre-line; overflow-wrap: anywhere; }
+.sii-table .check-column { padding-left: 10px; }
+.sii-table td:nth-child(2) { font-weight: 600; }
+.sii-error { color: #b32d2e; }
+.sii-success { color: #006b36; }
+#sii-progress { width: 100%; height: 20px; margin-bottom: 16px; }
+#sii-status { font-weight: 600; }
+#sii-ignored { margin-top: 20px; }
+#sii-ignored summary { cursor: pointer; font-weight: 600; }
+.sii-wrap [hidden] { display: none !important; }
